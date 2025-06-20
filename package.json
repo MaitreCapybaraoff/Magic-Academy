@@ -1,7 +1,7 @@
 {
-  "name": "novamc-launcher",
+  "name": "draco-launcher",
   "version": "1.0.0",
-  "productName": "NovaMC Launcher",
+  "productName": "Draco Launcher",
   "description": "Modded Minecraft Launcher",
   "author": "Daniel Scalzi (https://github.com/dscalzi/), Modified by: MaitreCapybaraoff",
   "license": "UNLICENSED",
