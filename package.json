@@ -1,13 +1,13 @@
 {
-  "name": "draco-launcher",
+  "name": "Magic-Academy",
   "version": "1.0.1",
-  "productName": "Draco-Launcher",
+  "productName": "Magic Academy",
   "description": "Modded Minecraft Launcher",
   "author": "Daniel Scalzi (https://github.com/dscalzi/), Modified by: MaitreCapybaraoff",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/MaitreCapybaraoff/NovaMC-Launcher",
+  "homepage": "https://github.com/MaitreCapybaraoff/Magic-Academy",
   "bugs": {
-    "url": "https://github.com/MaitreCapybaraoff/NovaMC-Launcher/issues"
+    "url": "https://github.com/MaitreCapybaraoff/Magic-Academy/issues"
   },
   "private": true,
   "main": "index.js",
@@ -46,6 +46,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MaitreCapybaraoff/NovaMC-Launcher.git"
+    "url": "git+https://github.com/MaitreCapybaraoff/Magic-Academy.git"
   }
 }

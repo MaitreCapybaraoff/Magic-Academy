@@ -1,20 +1,20 @@
 # Custom Language File for Launcher Customizer
 
 [ejs.app]
-title = "Draco Launcher"
+title = "Magic Academy Launcher"
 
 [ejs.landing]
-mediaGitHubURL = "https://github.com/MaitreCapybaraoff/NovaMC-Launcher"
+mediaGitHubURL = "https://github.com/MaitreCapybaraoff/Magic-Academy"
 mediaXURL = "#"
 mediaInstagramURL = "#"
 mediaYouTubeURL = "https://www.youtube.com/@DracoMC_off"
-mediaDiscordURL = "https://discord.gg/nBanauDRHs"
+mediaDiscordURL = "https://discord.gg/csFphFzN9d"
 
 [ejs.settings]
-sourceGithubLink = "https://github.com/MaitreCapybaraoff/NovaMC-Launcher"
-supportLink = "https://github.com/MaitreCapybaraoff/NovaMC-Launcher/issues"
+sourceGithubLink = "https://github.com/MaitreCapybaraoff/Magic-Academy"
+supportLink = "https://github.com/MaitreCapybaraoff/Magic-Academy/issues"
 
 [ejs.welcome]
-welcomeHeader = "BIENVENUE sur le Draco Launcher"
-welcomeDescription = "Notre mission est de recréer l'univers imaginé par l'auteur de DracoSMP, un serveur SMP, Un chant de glace et de feu. Grâce à la collaboration de milliers de membres de la communauté, nous avons cherché à créer DracoSMP avec la plus grande précision possible dans Minecraft. Le monde que nous créons est à vous d'explorer. Voyagez de Dorne à Châteaunoir et, si vous n'avez pas peur, au-delà du Mur lui-même, mais ne tardez pas. Comme le préviennent les mots de la Maison Stark : l'hiver approche."
-welcomeDescCTA = "Vous n'êtes qu'à quelques clics du DracoSMP."
+welcomeHeader = "BIENVENUE sur le Magic Academy"
+welcomeDescription = "La meilleur académie de Magie."
+welcomeDescCTA = "Vous n'êtes qu'à quelques clics de l'académie de magie."

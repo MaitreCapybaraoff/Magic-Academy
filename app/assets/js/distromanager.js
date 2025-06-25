@@ -3,7 +3,7 @@ const { DistributionAPI } = require('helios-core/common')
 const ConfigManager = require('./configmanager')
 
 
-exports.REMOTE_DISTRO_URL = 'http://launcher.novamc.fr:25599/nebula/distribution.json'
+exports.REMOTE_DISTRO_URL = 'http://launcherun.novamc.fr:25598/nebula/distribution.json'
 
 const api = new DistributionAPI(
     ConfigManager.getLauncherDirectory(),
